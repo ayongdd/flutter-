@@ -36,6 +36,6 @@ print(countries);
  ![image](https://user-images.githubusercontent.com/84298308/215262368-d9298fc4-81d1-4a3d-ac5f-b86299ae83d9.png)
  
  
- ### double取整: var whole = 2.31 ~/1 输出:2       
+ ### double取整: 2.31 ~/1 输出:2       
  #### int转double  value.toDouble()   double转int value.toInt()
 
