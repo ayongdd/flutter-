@@ -34,4 +34,7 @@ print(countries);
 
 ## Transform:位移widget (Transform.scale 、 Transform.rotate、Transform.translate )     
  ![image](https://user-images.githubusercontent.com/84298308/215262368-d9298fc4-81d1-4a3d-ac5f-b86299ae83d9.png)
+ 
+ 
+ ## flutter double取整： var whole = 2.31 ~/1 //2   int转double  value.toDouble()   double转int value.toInt()
 
