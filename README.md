@@ -1,4 +1,4 @@
-# flutter-flutter笔记
+# Flutter笔记
 
 ## 如何在Column中嵌入横着滚动的ListView      https://www.bilibili.com/video/BV1PT41177rs/?spm_id_from=autoNext&vd_source=61596f2e8aeaf8e4e3087056bd6404c4
 
@@ -24,12 +24,16 @@ print(countries);
  #### 获取随机颜色: Colors.primaries[Random().nextInt(Colors.primaries.length)]
  #### Colors.computeLuminance():获取颜色亮度（double 类型）
  
-## 动画 Animated
+## 显式动画 Animated
  #### AnimatedContainer()
  #### AnimatedSwitcher()
  #### AnimatedPadding()
  #### TweenAnimationBuilder()
- ![image](https://user-images.githubusercontent.com/84298308/215262086-24dfec05-506d-40f7-a0ae-4274e75d7e89.png)
+ ![image](https://user-images.githubusercontent.com/84298308/215262086-24dfec05-506d-40f7-a0ae-4274e75d7e89.png)     
+ 
+## 隐式动画 Transition     
+ #### RotationTransition():旋转动画
+ #### FadeTransition():透明度动画
 
 
 ## Transform:位移widget (Transform.scale 、 Transform.rotate、Transform.translate )     
