@@ -18,5 +18,18 @@ print(countries);
  
 ## Listener():监听 widget
  ![image](https://user-images.githubusercontent.com/84298308/215252827-c25c9b61-9e78-44c2-a589-e7f29808a2f6.png)
+ 
+## Colors:颜色 
+ #### Colors.primaries:获取内置颜色库
+ #### 获取随机颜色: Colors.primaries[Random().nextInt(Colors.primaries.length)]
+ #### Colors.computeLuminance():获取颜色亮度（double 类型）
+ 
+## 动画 Animated
+ #### AnimatedContainer()
+ #### AnimatedSwitcher()
+ #### AnimatedPadding()
+ #### TweenAnimationBuilder()
+ ![image](https://user-images.githubusercontent.com/84298308/215262086-24dfec05-506d-40f7-a0ae-4274e75d7e89.png)
+
 
 
