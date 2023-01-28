@@ -7,3 +7,9 @@
  #### 全局键（Global key）: GlobalKey()
  
  ## ReorderableListView(): 可拖拽listView
+
+##  shuffle() ：随机打乱列表数据     
+List<String> countries = ["USA", "United Kingdom","China", "Russia", "Brazil"];
+countries.shuffle();
+print(countries); 
+// [United Kingdom, Brazil, Russia, China, USA]
