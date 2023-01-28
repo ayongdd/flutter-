@@ -32,6 +32,6 @@ print(countries);
  ![image](https://user-images.githubusercontent.com/84298308/215262086-24dfec05-506d-40f7-a0ae-4274e75d7e89.png)
 
 
-## Transform:位移widget      
+## Transform:位移widget (Transform.scale 、 Transform.rotate、Transform.translate )     
  ![image](https://user-images.githubusercontent.com/84298308/215262368-d9298fc4-81d1-4a3d-ac5f-b86299ae83d9.png)
 
