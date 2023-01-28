@@ -6,10 +6,15 @@
  #### 局部键（Local Key）:ValueKey(dynamic) ObjectKey(dynamic) UniqueKey()    
  #### 全局键（Global key）: GlobalKey()
  
- ## ReorderableListView(): 可拖拽listView
+ ## 可拖拽Widget:      
+ #### ReorderableListView() 
+ #### Draggable() 
 
 ##  shuffle() ：随机打乱列表数据     
 List<String> countries = ["USA", "United Kingdom","China", "Russia", "Brazil"];
 countries.shuffle();
 print(countries); 
 // [United Kingdom, Brazil, Russia, China, USA]
+ 
+## Listener():监听 widget
+
