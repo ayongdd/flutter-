@@ -41,7 +41,7 @@ print(countries);
 
  
  ##交错动画 
-  通过 **.chain(CurveTween(curve:Interval(0.1,0.2)))**  控制动画触发和结束时间形成交错动画
+ ### 通过 <strong>.chain(CurveTween(curve:Interval(0.1,0.2)))</strong>  控制动画触发和结束时间形成交错动画
  ![image](https://user-images.githubusercontent.com/84298308/217506463-8c272d04-06c3-442a-9827-9b0866691738.png)
 
 
