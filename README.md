@@ -34,8 +34,11 @@ print(countries);
 ## 隐式动画 Transition     
  #### RotationTransition():旋转动画
  #### FadeTransition():透明度动画
- #### ScaleTransition():透明度动画
+ #### ScaleTransition():缩放动画
+ #### SliderTransition():上下左右移动动画
 
+
+ ![image](https://user-images.githubusercontent.com/84298308/217499715-10702f3a-5e7d-46e6-8823-cb56a8b48f60.png)
 
 ## Transform:位移widget (Transform.scale 、 Transform.rotate、Transform.translate )     
  ![image](https://user-images.githubusercontent.com/84298308/215262368-d9298fc4-81d1-4a3d-ac5f-b86299ae83d9.png)
