@@ -39,6 +39,11 @@ print(countries);
 
 ![image](https://user-images.githubusercontent.com/84298308/217500388-eb17a0f6-b3d5-455e-84ad-b48727a8f575.png)
 
+ 
+ ##交错动画 
+  通过 **.chain(CurveTween(curve:Interval(0.1,0.2)))**  控制动画触发和结束时间形成交错动画
+ ![image](https://user-images.githubusercontent.com/84298308/217506463-8c272d04-06c3-442a-9827-9b0866691738.png)
+
 
 ## Transform:位移widget (Transform.scale 、 Transform.rotate、Transform.translate )     
  ![image](https://user-images.githubusercontent.com/84298308/215262368-d9298fc4-81d1-4a3d-ac5f-b86299ae83d9.png)
