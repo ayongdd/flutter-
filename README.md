@@ -34,6 +34,7 @@ print(countries);
 ## 隐式动画 Transition     
  #### RotationTransition():旋转动画
  #### FadeTransition():透明度动画
+ #### ScaleTransition():透明度动画
 
 
 ## Transform:位移widget (Transform.scale 、 Transform.rotate、Transform.translate )     
