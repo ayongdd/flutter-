@@ -51,4 +51,8 @@ print(countries);
  
  ### double取整: 2.31 ~/1 输出:2       
  #### int转double  value.toDouble()   double转int value.toInt()
+ 
+ ## 自定义动画
+ ![image](https://user-images.githubusercontent.com/84298308/217518969-bd9abb7e-cff3-464f-bde8-2089a3e65873.png)
+
 
