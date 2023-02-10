@@ -5,6 +5,8 @@
 ## flutter key: 
  #### 局部键（Local Key）:ValueKey(dynamic) ObjectKey(dynamic) UniqueKey()    
  #### 全局键（Global key）: GlobalKey()
+ ![image](https://user-images.githubusercontent.com/84298308/218069123-b6667a93-d0df-483f-b8b3-64a25c1ceaef.png)
+
  
  ## 可拖拽Widget:      
  #### ReorderableListView() 
