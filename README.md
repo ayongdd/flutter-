@@ -70,3 +70,7 @@ print(countries);
 
 ## 旋转控件（将子控件旋转） RotatedBox() 
  ![image](https://user-images.githubusercontent.com/84298308/218247874-3f3d7726-0099-4ba5-8b83-858bffd791ea.png)
+ 
+ ## 类似ios选择日期的 滚动控件 ListWheelScrollView()
+ ![image](https://user-images.githubusercontent.com/84298308/218247976-bbcf3bc4-de69-4175-b83a-fc0011c1e043.png)
+
