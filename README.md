@@ -77,5 +77,7 @@ print(countries);
  ## FutureBuidler
 ![image](https://user-images.githubusercontent.com/84298308/218671808-f7b8712e-f44d-407b-aa49-146725ad6918.png)
 
-
+## StreamBuilder 
+ ![image](https://user-images.githubusercontent.com/84298308/218940685-07bc4d01-cab7-45a8-aeb2-84919ce8dd15.png)
+ ![image](https://user-images.githubusercontent.com/84298308/218940529-27dad09d-c664-4d49-b85f-40d9b36bc572.png)
 
