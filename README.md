@@ -97,3 +97,6 @@ print(countries);
  ## SliverPersistentHeader : sliver 吸附效果 用于多用于好友分组
  ![image](https://user-images.githubusercontent.com/84298308/219571773-7247efa1-1e4e-4d07-b3db-5168494517d8.png)
 
+ ## 根据手机横屏竖屏 设置排列方向
+ ![image](https://user-images.githubusercontent.com/84298308/219596224-51a12f84-7e3c-417b-bd3a-23f70988b39f.png)
+
