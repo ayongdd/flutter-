@@ -88,3 +88,5 @@ print(countries);
  ## customScrollView :列表控件（数据不多用SliverToBoxAdapter,数据多用 SliverGrid、SliverList）
  ![image](https://user-images.githubusercontent.com/84298308/219553206-86c03db4-d322-4b5f-a42b-8cd1a1e6ec3b.png)
 
+ ## SliverAppBar (弹性AppBar：好看)
+ ![image](https://user-images.githubusercontent.com/84298308/219559022-8a5081b9-7e0a-4b6e-961a-69c3890aeedb.png)
