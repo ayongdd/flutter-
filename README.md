@@ -90,3 +90,6 @@ print(countries);
 
  ## SliverAppBar (弹性AppBar，可替换AppBar)
  ![image](https://user-images.githubusercontent.com/84298308/219559022-8a5081b9-7e0a-4b6e-961a-69c3890aeedb.png)
+
+## 裁切头像
+ ![image](https://user-images.githubusercontent.com/84298308/219567038-04e1d375-398e-42f2-9eb8-cc84f1f65f7e.png)
