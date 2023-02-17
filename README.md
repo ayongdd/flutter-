@@ -93,3 +93,7 @@ print(countries);
 
 ## 裁切头像
  ![image](https://user-images.githubusercontent.com/84298308/219567038-04e1d375-398e-42f2-9eb8-cc84f1f65f7e.png)
+ 
+ ## SliverPersistentHeader : sliver 吸附效果 用于多用于好友分组
+ ![image](https://user-images.githubusercontent.com/84298308/219571773-7247efa1-1e4e-4d07-b3db-5168494517d8.png)
+
