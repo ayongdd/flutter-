@@ -32,6 +32,10 @@ print(countries);
  #### AnimatedPadding()
  #### TweenAnimationBuilder()
  ![image](https://user-images.githubusercontent.com/84298308/215262086-24dfec05-506d-40f7-a0ae-4274e75d7e89.png)     
+ #### AnimatedCrossFade
+ ![image](https://user-images.githubusercontent.com/84298308/220030431-d2c344f1-3252-4bef-a572-0129c2e1cc54.png)
+
+
  
 ## 隐式动画 Transition     
  #### RotationTransition():旋转动画
