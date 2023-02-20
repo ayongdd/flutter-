@@ -103,4 +103,3 @@ print(countries);
 
  ## 根据手机横屏竖屏 设置排列方向
  ![image](https://user-images.githubusercontent.com/84298308/219596224-51a12f84-7e3c-417b-bd3a-23f70988b39f.png)
-
