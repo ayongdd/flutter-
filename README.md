@@ -12,7 +12,7 @@
  #### ReorderableListView() 
  #### Draggable()
  
- ## UnconstrainedBox():取消父级盒子宽高约束
+ ## UnconstrainedBox():取消父级盒子宽高约束，且大小不能超过父组件约束，否则报错
 
 ##  shuffle() ：随机打乱列表数据     
 List<String> countries = ["USA", "United Kingdom","China", "Russia", "Brazil"];
