@@ -12,9 +12,9 @@
  #### ReorderableListView() 
  #### Draggable()
  
-
+ ## 模型约束：BoxConstraints
  ## UnconstrainedBox():取消父级盒子宽高约束，且大小不能超过父组件约束，否则报错,
- ## 其它约束组件 比如AspectRatio，它可以指定子组件的长宽比、LimitedBox 用于指定最大宽高、FractionallySizedBox 可以根据父容器宽高的百分比来设置子组件宽高等
+ 其它约束组件 比如AspectRatio，它可以指定子组件的长宽比、LimitedBox 用于指定最大宽高、FractionallySizedBox 可以根据父容器宽高的百分比来设置子组件宽高等
 
 ##  shuffle() ：随机打乱列表数据     
 List<String> countries = ["USA", "United Kingdom","China", "Russia", "Brazil"];
