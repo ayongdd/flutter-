@@ -53,6 +53,7 @@ print(countries);
  #### SliderTransition():上下左右移动动画
 
 ![image](https://user-images.githubusercontent.com/84298308/217500388-eb17a0f6-b3d5-455e-84ad-b48727a8f575.png)
+![image](https://user-images.githubusercontent.com/84298308/220536919-f08e1134-e5e8-432b-a48b-53e76182438f.png)
 
  
  ## 交错动画 
