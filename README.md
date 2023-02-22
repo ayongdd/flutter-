@@ -30,6 +30,11 @@ print(countries);
  #### 获取随机颜色: Colors.primaries[Random().nextInt(Colors.primaries.length)]
  #### Colors.computeLuminance():获取颜色亮度（double 类型）
  
+## Matrix4:flutter内置4D矩阵插件，通过它可以实现各种特效
+ ![image](https://user-images.githubusercontent.com/84298308/220535733-d91bfbd9-c14d-486a-a4d3-c2125b62052a.png)
+
+ 
+ 
 ## 显式动画 Animated
  #### AnimatedContainer()
  #### AnimatedSwitcher()
