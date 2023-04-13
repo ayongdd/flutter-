@@ -4,8 +4,10 @@
 
 ## flutter key: 
  #### 局部键（Local Key）:ValueKey(dynamic) ObjectKey(dynamic) UniqueKey()    
- #### 全局键（Global key）: GlobalKey()
+ #### 全局键（Global key）: GlobalKey() 可以获取组件信息，也可以获取组件context
  ![image](https://user-images.githubusercontent.com/84298308/218069123-b6667a93-d0df-483f-b8b3-64a25c1ceaef.png)
+ ![image](https://user-images.githubusercontent.com/84298308/231687098-0d47f221-dd8a-4304-8efa-b08c67671203.png)
+
 
  
  ## 可拖拽Widget:      
