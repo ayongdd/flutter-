@@ -16,4 +16,6 @@
 
 ## list 遍历
 ![image](https://user-images.githubusercontent.com/84298308/232721282-3245ac37-51ec-48b4-b6ba-86ee195cd8bb.png)
+![image](https://user-images.githubusercontent.com/84298308/232722185-514c6318-407d-4d7c-b96f-8dd7b818a94a.png)
+
 
