@@ -8,3 +8,8 @@
 ## string 操作
 ![image](https://user-images.githubusercontent.com/84298308/232710299-19c281ec-3122-4761-96e8-77859764d900.png)
 ![image](https://user-images.githubusercontent.com/84298308/232710138-c6f02f1a-0d2e-4171-b4ee-c04855f325aa.png)
+
+## list 操作
+![image](https://user-images.githubusercontent.com/84298308/232716194-6ad8e807-fbe1-4b2d-8d55-e3bab3ff14f1.png)
+![image](https://user-images.githubusercontent.com/84298308/232716370-341a40e2-b966-4bfe-ae77-a7f731b7b5ba.png)
+![image](https://user-images.githubusercontent.com/84298308/232716444-567ddafa-622c-40af-9cc2-6dc4f6ed5a8d.png)
