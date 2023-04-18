@@ -23,3 +23,6 @@
 ![image](https://user-images.githubusercontent.com/84298308/232724676-51c04242-8ed3-4050-992d-9acffcc48e45.png)
 ![image](https://user-images.githubusercontent.com/84298308/232751338-c29ba993-d6d3-45ed-bef7-29c00b018d03.png)
 
+## 特殊类型 Runes  Symbol  daylic (https://copychar.cc/)
+![image](https://user-images.githubusercontent.com/84298308/232758096-a590dc52-997e-4533-8ecd-96f05c1bad7d.png)
+![image](https://user-images.githubusercontent.com/84298308/232761583-5b3179a7-93c7-4cea-8b47-4b82fbd40dae.png)
