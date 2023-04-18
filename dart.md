@@ -1,2 +1,6 @@
+## dart 基本类型
+![image](https://user-images.githubusercontent.com/84298308/232699694-b99fb693-d2b0-4f7b-b011-2ebf04ffca4a.png)
+
+
 ## num 转换
 ![image](https://user-images.githubusercontent.com/84298308/232699398-3f2d63ae-069c-427c-a8bf-71d51c484104.png)
