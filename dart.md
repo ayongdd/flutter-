@@ -19,3 +19,7 @@
 ![image](https://user-images.githubusercontent.com/84298308/232722185-514c6318-407d-4d7c-b96f-8dd7b818a94a.png)
 
 
+## Set 操作 (list 去重)
+![image](https://user-images.githubusercontent.com/84298308/232724676-51c04242-8ed3-4050-992d-9acffcc48e45.png)
+![image](https://user-images.githubusercontent.com/84298308/232751338-c29ba993-d6d3-45ed-bef7-29c00b018d03.png)
+
