@@ -13,3 +13,7 @@
 ![image](https://user-images.githubusercontent.com/84298308/232716194-6ad8e807-fbe1-4b2d-8d55-e3bab3ff14f1.png)
 ![image](https://user-images.githubusercontent.com/84298308/232716370-341a40e2-b966-4bfe-ae77-a7f731b7b5ba.png)
 ![image](https://user-images.githubusercontent.com/84298308/232716444-567ddafa-622c-40af-9cc2-6dc4f6ed5a8d.png)
+
+## list 遍历
+![image](https://user-images.githubusercontent.com/84298308/232721282-3245ac37-51ec-48b4-b6ba-86ee195cd8bb.png)
+
