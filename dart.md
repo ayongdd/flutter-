@@ -77,6 +77,10 @@
 ## 抽象类
 ![image](https://user-images.githubusercontent.com/84298308/233021426-48a0881e-ccd0-4e70-98f5-79e3b6d1a484.png)
 
+#### extends 继承抽象类
+![image](https://user-images.githubusercontent.com/84298308/233054908-9035b138-a6cd-4e59-8d63-3ec20ecbb432.png)
+
+
 ##### implements 实现抽象类
 ![image](https://user-images.githubusercontent.com/84298308/233054401-6293bcfd-8c8e-440e-9135-63710d4842fd.png)
 ![image](https://user-images.githubusercontent.com/84298308/233054299-527775d1-9481-4295-aacf-b32ea5d72d46.png)
