@@ -27,3 +27,9 @@
 ![image](https://user-images.githubusercontent.com/84298308/232758096-a590dc52-997e-4533-8ecd-96f05c1bad7d.png)
 ![image](https://user-images.githubusercontent.com/84298308/232761798-7f80125b-19a3-4531-b166-b23d2ef676b5.png)
 
+
+## 函数 
+![image](https://user-images.githubusercontent.com/84298308/232768897-764737a7-6768-4f50-b00b-60f6eb2049a0.png)
+![image](https://user-images.githubusercontent.com/84298308/232769010-1f029faa-338d-4723-819d-cf23c7982827.png)
+![image](https://user-images.githubusercontent.com/84298308/232770156-f0ff4aa0-56ce-4cec-9f4f-0e23ad53f7a9.png)
+
