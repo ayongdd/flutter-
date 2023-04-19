@@ -77,6 +77,7 @@
 ## 抽象类
 ![image](https://user-images.githubusercontent.com/84298308/233021426-48a0881e-ccd0-4e70-98f5-79e3b6d1a484.png)
 
+![image](https://user-images.githubusercontent.com/84298308/233054114-e6d0b174-7da5-488f-bad7-a0bc06f55577.png)
 
 
 
