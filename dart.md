@@ -70,6 +70,7 @@
 
 ![image](https://user-images.githubusercontent.com/84298308/233016672-2e43c495-b2a4-491e-b5b8-27617a223812.png)
 ![image](https://user-images.githubusercontent.com/84298308/233016017-d2992552-7c2b-4263-9a3d-2fcea3a43f23.png)
+#### 结果： 我是 刘禅 我爹是 刘备，他的工作室卖草鞋的
 ![image](https://user-images.githubusercontent.com/84298308/233016528-3d40e6b0-4195-45d5-8a3b-0b5d60177948.png)
 
 
