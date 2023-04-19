@@ -34,7 +34,8 @@
 ![image](https://user-images.githubusercontent.com/84298308/232770156-f0ff4aa0-56ce-4cec-9f4f-0e23ad53f7a9.png)
 
 ## 构造函数
-![image](https://user-images.githubusercontent.com/84298308/232986889-546702bd-950f-4d54-a1d4-075fc7e80f3d.png)
+![image](https://user-images.githubusercontent.com/84298308/232989363-2d06e058-ec0a-4ca2-95f3-bdf8cb6486ec.png)
+
 
 ### 普通构造函数
 ![image](https://user-images.githubusercontent.com/84298308/232985975-b509b760-a8ca-4830-aeac-3a612627f490.png)
@@ -48,4 +49,8 @@
 ### 常量构造函数 （提高性能）
 ![image](https://user-images.githubusercontent.com/84298308/232988813-039f42aa-68a2-4b1c-8fef-f230144d0a41.png)
 ![image](https://user-images.githubusercontent.com/84298308/232988862-d3ddca40-e6cb-47d8-8e8c-ec54fe840c47.png)
+
+### 工厂构造函数
+![image](https://user-images.githubusercontent.com/84298308/232991833-7f6163e6-eb9a-4db7-a5d1-5c8fffb1b675.png)
+
 
