@@ -56,7 +56,7 @@
 ![image](https://user-images.githubusercontent.com/84298308/232992147-d196a829-fd63-448c-98db-6276b25d798f.png)
 
 
-### 初始化列表
+### 初始化列表 （类初始化之前，添加默认值）
 ![image](https://user-images.githubusercontent.com/84298308/233002138-f94b3e29-5db2-4683-8229-2c14af7ca9c9.png)
 ![image](https://user-images.githubusercontent.com/84298308/233002483-ebb9da62-e3d7-4070-bd01-62ccf9ac5c2f.png)
 
