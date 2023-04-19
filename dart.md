@@ -34,9 +34,13 @@
 ![image](https://user-images.githubusercontent.com/84298308/232770156-f0ff4aa0-56ce-4cec-9f4f-0e23ad53f7a9.png)
 
 ## 构造函数
+![image](https://user-images.githubusercontent.com/84298308/232986889-546702bd-950f-4d54-a1d4-075fc7e80f3d.png)
+
 ### 普通构造函数
 ![image](https://user-images.githubusercontent.com/84298308/232985975-b509b760-a8ca-4830-aeac-3a612627f490.png)
 
 ##### 简写方式
 ![image](https://user-images.githubusercontent.com/84298308/232986103-e13b7571-c5bf-4643-a4ee-6caa0e265a88.png)
 
+### 命名构造函数
+![image](https://user-images.githubusercontent.com/84298308/232986640-0a0ed9c9-ba98-41c9-b6f4-28c7bac02aa5.png)
