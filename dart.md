@@ -33,3 +33,10 @@
 ![image](https://user-images.githubusercontent.com/84298308/232769010-1f029faa-338d-4723-819d-cf23c7982827.png)
 ![image](https://user-images.githubusercontent.com/84298308/232770156-f0ff4aa0-56ce-4cec-9f4f-0e23ad53f7a9.png)
 
+## 构造函数
+### 普通构造函数
+![image](https://user-images.githubusercontent.com/84298308/232985975-b509b760-a8ca-4830-aeac-3a612627f490.png)
+
+##### 简写方式
+![image](https://user-images.githubusercontent.com/84298308/232986103-e13b7571-c5bf-4643-a4ee-6caa0e265a88.png)
+
