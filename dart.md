@@ -44,3 +44,8 @@
 
 ### 命名构造函数
 ![image](https://user-images.githubusercontent.com/84298308/232986640-0a0ed9c9-ba98-41c9-b6f4-28c7bac02aa5.png)
+
+### 常量构造函数 （提高性能）
+![image](https://user-images.githubusercontent.com/84298308/232988813-039f42aa-68a2-4b1c-8fef-f230144d0a41.png)
+![image](https://user-images.githubusercontent.com/84298308/232988862-d3ddca40-e6cb-47d8-8e8c-ec54fe840c47.png)
+
