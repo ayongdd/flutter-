@@ -61,3 +61,17 @@
 ![image](https://user-images.githubusercontent.com/84298308/233002483-ebb9da62-e3d7-4070-bd01-62ccf9ac5c2f.png)
 
 
+## static
+![image](https://user-images.githubusercontent.com/84298308/233003343-8dae92e4-3fca-494b-b56a-57067e088820.png)
+
+
+## 继承
+![image](https://user-images.githubusercontent.com/84298308/233006821-1ca7622d-7390-4675-b4f0-6231c4e89ea3.png)
+
+![image](https://user-images.githubusercontent.com/84298308/233014352-ca5c7987-f63e-4f94-bce4-43dccefb363a.png)
+![image](https://user-images.githubusercontent.com/84298308/233016017-d2992552-7c2b-4263-9a3d-2fcea3a43f23.png)
+
+
+
+
+
