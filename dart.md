@@ -74,6 +74,10 @@
 ![image](https://user-images.githubusercontent.com/84298308/233016528-3d40e6b0-4195-45d5-8a3b-0b5d60177948.png)
 
 
+## 抽象类
+![image](https://user-images.githubusercontent.com/84298308/233021426-48a0881e-ccd0-4e70-98f5-79e3b6d1a484.png)
+
+
 
 
 
