@@ -99,3 +99,5 @@
 ![image](https://user-images.githubusercontent.com/84298308/233357901-1c36c543-90bd-40b3-b644-7f8afaedf5d1.png)
 
 
+#### part 和 part of
+![image](https://user-images.githubusercontent.com/84298308/233358479-700ce160-a249-427b-9ce0-e0c42817f478.png)
