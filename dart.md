@@ -95,5 +95,7 @@
 ![image](https://user-images.githubusercontent.com/84298308/233355263-6ed5b7e8-240a-4b97-9bc8-052052849cef.png)
 
 
+#### 库的延迟引入
+![image](https://user-images.githubusercontent.com/84298308/233357901-1c36c543-90bd-40b3-b644-7f8afaedf5d1.png)
 
 
