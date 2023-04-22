@@ -116,3 +116,9 @@ print(countries);
 
  ## 根据手机横屏竖屏 设置排列方向
  ![image](https://user-images.githubusercontent.com/84298308/219596224-51a12f84-7e3c-417b-bd3a-23f70988b39f.png)
+ 
+ ## 插件
+ 
+ flutter_rating_bar 评分插件
+ ![image](https://user-images.githubusercontent.com/84298308/233781242-48d00058-d2f6-4097-90d8-0fc3de9782f6.png)
+
