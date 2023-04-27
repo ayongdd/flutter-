@@ -90,7 +90,7 @@
 ![image](https://user-images.githubusercontent.com/84298308/234851050-4f85c808-c472-413a-8343-fb6f1ff9b540.png)
 
 
-#### 单线程（EventLoop）
+#### 单线程（EventLoop） dart执行顺序： 同步>异步（微任务>宏任务）
 ![image](https://user-images.githubusercontent.com/84298308/234848609-6a3c83a7-d434-400c-bedd-2314f17450d6.png)
 
 
