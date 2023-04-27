@@ -93,6 +93,8 @@
 #### 单线程（EventLoop） dart执行顺序： 同步>异步（微任务>宏任务）
 ![image](https://user-images.githubusercontent.com/84298308/234848609-6a3c83a7-d434-400c-bedd-2314f17450d6.png)
 
+#### 多线程
+![image](https://user-images.githubusercontent.com/84298308/234851722-8463f8b8-2094-49c8-869d-5c54f5f219b2.png)
 
 
 ## 库
