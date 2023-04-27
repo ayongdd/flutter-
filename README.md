@@ -119,14 +119,14 @@ print(countries);
  
  ## 插件
  
- #### flutter_rating_bar 评分插件
+ #### flutter_rating_bar: 评分插件
  ![image](https://user-images.githubusercontent.com/84298308/233781242-48d00058-d2f6-4097-90d8-0fc3de9782f6.png)
  
-#### flutter_slidable 可滑动列表项的 Flutter 实现。
+#### flutter_slidable: 可滑动列表项的 Flutter 实现。
  ![image](https://user-images.githubusercontent.com/84298308/233782794-9de8257b-2803-4179-bd69-6c02c8ccbed5.png)
 
-#### hive  Hive 是一个纯 Dart 编写的、基于文件存储的、轻量且功能强大的 Key-Value 型数据库。使用 AES-256 进行高度加密。
+#### hive: 是一个纯 Dart 编写的、基于文件存储的、轻量且功能强大的 Key-Value 型数据库。使用 AES-256 进行高度加密。
  https://www.jianshu.com/p/ae5b93d9a490
  
- #### flutter_screenutil flutter 屏幕适合配置方案，利用调整整屏和字体大小的flutter插件，让你的UI在不同尺寸的屏幕上都能显示合理的布局！
+ #### flutter_screenutil: flutter屏幕适合配置方案，利用调整整屏和字体大小的flutter插件，让你的UI在不同尺寸的屏幕上都能显示合理的布局！
 
