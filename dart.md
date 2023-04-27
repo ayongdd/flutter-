@@ -86,6 +86,15 @@
 ![image](https://user-images.githubusercontent.com/84298308/233054299-527775d1-9481-4295-aacf-b32ea5d72d46.png)
 
 
+## 线程 
+![image](https://user-images.githubusercontent.com/84298308/234851050-4f85c808-c472-413a-8343-fb6f1ff9b540.png)
+
+
+#### 单线程（EventLoop）
+![image](https://user-images.githubusercontent.com/84298308/234848609-6a3c83a7-d434-400c-bedd-2314f17450d6.png)
+
+
+
 ## 库
 ![image](https://user-images.githubusercontent.com/84298308/233357384-eb92ee5c-8291-43a1-9838-ee13b21d5ea4.png)
 
