@@ -127,3 +127,6 @@ print(countries);
 
 #### hive  Hive 是一个纯 Dart 编写的、基于文件存储的、轻量且功能强大的 Key-Value 型数据库。使用 AES-256 进行高度加密。
  https://www.jianshu.com/p/ae5b93d9a490
+ 
+ #### flutter_screenutil flutter 屏幕适合配置方案，利用调整整屏和字体大小的flutter插件，让你的UI在不同尺寸的屏幕上都能显示合理的布局！
+
