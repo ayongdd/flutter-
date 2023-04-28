@@ -96,6 +96,12 @@
 #### 多线程
 ![image](https://user-images.githubusercontent.com/84298308/234851722-8463f8b8-2094-49c8-869d-5c54f5f219b2.png)
 
+## Future 执行顺序
+
+![image](https://user-images.githubusercontent.com/84298308/235068354-690ec6d4-e24e-475f-91aa-b8248e2e8e7d.png)
+![image](https://user-images.githubusercontent.com/84298308/235068291-e3a7954b-e34b-48b8-8f2a-e223cb3713fe.png)
+
+
 
 ## 库
 ![image](https://user-images.githubusercontent.com/84298308/233357384-eb92ee5c-8291-43a1-9838-ee13b21d5ea4.png)
