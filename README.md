@@ -130,3 +130,6 @@ print(countries);
  
  #### flutter_screenutil: flutter屏幕适合配置方案，利用调整整屏和字体大小的flutter插件，让你的UI在不同尺寸的屏幕上都能显示合理的布局！
 
+### dart 读取json文件
+![image](https://github.com/ayongdd/flutter-/assets/84298308/540cd303-a463-4cc1-acab-2b69ad8112d6)
+
