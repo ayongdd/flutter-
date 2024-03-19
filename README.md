@@ -135,3 +135,6 @@ print(countries);
 
 ### 下拉刷新list
 pull_to_refresh
+
+### getX 
+#### Get.isRegistered<Tab_missionLogic>() getx检测是否注册Tab_missionLogic
