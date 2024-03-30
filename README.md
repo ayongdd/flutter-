@@ -138,3 +138,5 @@ pull_to_refresh
 
 ### getX 
 #### Get.isRegistered<Tab_missionLogic>() getx检测是否注册Tab_missionLogic
+
+### 打包web本地访问 python3 -m http.server 8080
