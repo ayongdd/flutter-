@@ -141,3 +141,7 @@ pull_to_refresh
 
 ### 打包web本地访问 python3 -m http.server 8080
 ### --web-renderer=html --web-port=8686 --web-hostname=192.168.4.35
+
+### _notifyUI函数是一个回调函数，它负责在数据发生变化时调用setState()来触发UI更新。通过将setState()方法作为回调函数传递给_notifyUI，可以确保在更新数据后，Flutter框架会调用setState()来重新构建UI。
+![image](https://github.com/ayongdd/flutter-/assets/84298308/c8b8d2e0-fb97-40f8-bca8-5345c8ff9a7f)
+
