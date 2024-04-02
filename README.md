@@ -145,3 +145,9 @@ pull_to_refresh
 ### _notifyUI函数是一个回调函数，它负责在数据发生变化时调用setState()来触发UI更新。通过将setState()方法作为回调函数传递给_notifyUI，可以确保在更新数据后，Flutter框架会调用setState()来重新构建UI。
 ![image](https://github.com/ayongdd/flutter-/assets/84298308/c8b8d2e0-fb97-40f8-bca8-5345c8ff9a7f)
 
+
+### WidgetsBinding.instance.addPostFrameCallback((_) {
+  // 在UI渲染完成后执行的回调函数
+  // 可以在这里执行一些需要等待UI构建完成的逻辑
+  // 例如测量组件尺寸、执行动画等
+});
