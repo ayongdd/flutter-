@@ -140,3 +140,4 @@ pull_to_refresh
 #### Get.isRegistered<Tab_missionLogic>() getx检测是否注册Tab_missionLogic
 
 ### 打包web本地访问 python3 -m http.server 8080
+### --web-renderer=html --web-port=8686 --web-hostname=192.168.4.35
