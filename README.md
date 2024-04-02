@@ -153,3 +153,6 @@ pull_to_refresh
 });
 
 ### ![image](https://github.com/ayongdd/flutter-/assets/84298308/ead4ea54-6feb-469f-b9de-1fbaedba8410)
+
+### ![image](https://github.com/ayongdd/flutter-/assets/84298308/1d435a82-b8d5-4b39-ab27-036c206b1fbb)
+.cast<String>()方法将列表中的元素转换为字符串类型。
