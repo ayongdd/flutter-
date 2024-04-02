@@ -151,3 +151,5 @@ pull_to_refresh
   // 可以在这里执行一些需要等待UI构建完成的逻辑
   // 例如测量组件尺寸、执行动画等
 });
+
+### ![image](https://github.com/ayongdd/flutter-/assets/84298308/ead4ea54-6feb-469f-b9de-1fbaedba8410)
