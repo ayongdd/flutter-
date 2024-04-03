@@ -161,5 +161,6 @@ pull_to_refresh
 
 ### 创建了一个BankListRefreshNotify对象，并使用.listen()方法来订阅linster事件流。当事件流中有新事件时，会执行传递给.listen()方法的回调函数
 ![image](https://github.com/ayongdd/flutter-/assets/84298308/5d505abf-868a-4c27-980e-6170dcf04cd7)
-![image](https://github.com/ayongdd/flutter-/assets/84298308/83797a39-abc2-4b68-a0db-c42cf832cd4a)
+![image](https://github.com/ayongdd/flutter-/assets/84298308/bc8ffffc-a056-414f-bb62-42872895d2c2)
+
 
