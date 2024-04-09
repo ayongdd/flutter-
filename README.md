@@ -277,7 +277,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/2eda7949-0b55-42e1-a16a-cdb6c60b2ff4)
 
-### flutter点击 组织冒泡 GestureDetector behavior属性
+### flutter点击 阻止冒泡 GestureDetector behavior属性
 ####   behavior: HitTestBehavior.deferToChild, 手势事件将被传递给GestureDetector的子小部件。
 ####    behavior: HitTestBehavior.opaque,GestureDetector将独占手势事件，并阻止它们传递给子小部件。
 
