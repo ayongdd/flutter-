@@ -270,7 +270,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 
 
 ### flutter 下拉菜单写法
-#### 利用GlobalKey 获取定位container 的尺寸大小 定位  利用PopupMenuItem 菜单定位
+#### 利用GlobalKey 获取定位container 的尺寸大小 定位  利用showMenu组件下拉
 ####  final GlobalKey _widgetKey = GlobalKey();
 
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/581563c4-e3fb-4003-96cf-adbe30462af9)
