@@ -169,7 +169,7 @@ pull_to_refresh
 
 ### flutter 机器人 https://poe.com/chat/239se6osl2tr4wa3wet
 
-### flutter 键盘升起遮挡 解决办法 
+### flutter 键盘升起遮挡TextField 解决办法 
 #### 方法1. 用flutter_keyboard_visibility插件
 #### 方法2. 创建 WBKeyBoardObsercer类
 
