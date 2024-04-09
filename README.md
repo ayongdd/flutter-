@@ -172,11 +172,11 @@ pull_to_refresh
 ### flutter 键盘升起遮挡 解决办法 
 #### 方法1. 用flutter_keyboard_visibility插件
 #### 方法2. 创建 WBKeyBoardObsercer类
+
 import 'package:flutter/material.dart';
 import 'dart:math';
 import 'dart:ui';
 import 'package:get/get.dart';
-
 typedef FunctionType = void Function(double boardHeight);
 class WBKeyBoardObsercer extends WidgetsBindingObserver {
   double keyboardHeight = 0;
@@ -262,3 +262,11 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
     _preKeyboardShow = isKeyboardShow;
   }
 }
+#####用法：
+![image](https://github.com/ayongdd/flutter-/assets/84298308/5d473662-a3da-4522-b02c-2c543230f867)
+![image](https://github.com/ayongdd/flutter-/assets/84298308/e12a8b95-5270-4b83-ba00-32fe24a7b2ee)
+![image](https://github.com/ayongdd/flutter-/assets/84298308/421bb975-2a37-4b67-9179-38e500beda91)
+![image](https://github.com/ayongdd/flutter-/assets/84298308/90aa4632-f65f-4327-8dcb-3e300193a8c5)
+
+
+
