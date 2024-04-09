@@ -269,4 +269,13 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/90aa4632-f65f-4327-8dcb-3e300193a8c5)
 
 
+### flutter 下拉菜单写法
+#### 利用GlobalKey 获取定位container 的尺寸大小 定位  利用PopupMenuItem 菜单定位
+####  final GlobalKey _widgetKey = GlobalKey();
+
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/581563c4-e3fb-4003-96cf-adbe30462af9)
+
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/2eda7949-0b55-42e1-a16a-cdb6c60b2ff4)
+
+
 
