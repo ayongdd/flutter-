@@ -169,3 +169,96 @@ pull_to_refresh
 
 ### flutter 机器人 https://poe.com/chat/239se6osl2tr4wa3wet
 
+### flutter 键盘升起遮挡 解决办法 
+#### 方法1. 用flutter_keyboard_visibility插件
+#### 方法2. 创建 WBKeyBoardObsercer类
+import 'package:flutter/material.dart';
+import 'dart:math';
+import 'dart:ui';
+import 'package:get/get.dart';
+
+typedef FunctionType = void Function(double boardHeight);
+class WBKeyBoardObsercer extends WidgetsBindingObserver {
+  double keyboardHeight = 0;
+  bool? isKeyboardShow;
+  bool? _preKeyboardShow;
+
+  ScrollController scController; // 滑动视图控制器
+  double widgetHeight; //文本框高度
+  FunctionType? keyBoardChange;
+  WBKeyBoardObsercer({required this.scController,required this.widgetHeight});
+
+
+
+  @override
+  Future<bool> didPopRoute() {
+    // TODO: implement didPopRoute
+    print("routes did pop");
+    return super.didPopRoute();
+  }
+  @override
+  void didChangeMetrics() {
+    debugPrint("didChangeMetrics");
+    final bottom = Get.mediaQuery.viewInsets.bottom;
+    // 键盘存在中间态，回调是键盘冒出来的高度
+    keyboardHeight = max(keyboardHeight, bottom);
+    if (bottom == 0) {
+
+      isKeyboardShow = false;
+    } else if (bottom == keyboardHeight || keyboardHeight == 0) {
+
+      isKeyboardShow = true;
+    } else {
+      ///键盘打开和收起，都会走这里。
+
+      isKeyboardShow = null;
+
+      ///当键盘之前处于打开的时候才需要获取
+      if (_preKeyboardShow == true) {
+        ///从手写切换到拼音，键盘会变小，这个时候无法判断，延迟一下，如果bottom 大于200，那么就是键盘高度。
+
+      }
+    }
+
+    ///展开和收起
+    if (isKeyboardShow != null && _preKeyboardShow != isKeyboardShow) {
+      double bottom = Get.mediaQuery.viewInsets.bottom;
+
+      ///改变键盘为手写模式也会走这里，但是如果是手写改成9按键（键盘由高变小），不会走这里。
+
+
+
+      ///收起时候保存键盘高度
+      if (bottom == 0 && keyboardHeight != 0) {
+
+      }
+    }
+
+    Future.delayed(const Duration(milliseconds: 10), () {
+      final height = Get.mediaQuery.viewInsets.bottom;
+      keyBoardChange?.call(height);
+      if (height > 200) {
+
+        keyboardHeight = height;
+
+
+        var bottom = Get.mediaQuery.viewInsets.bottom;
+        print("key board frame:${bottom}");
+        var rect = Get.focusScope?.rect ?? Rect.zero;
+        print("focus tf rect:${rect}");
+        print("screen height:${Get.height}");
+        var offset =  Get.height - bottom - (widgetHeight) - rect.top;
+        print("offset aaaa :${offset}");
+        if (offset < 0) {
+          if (scController.offset > 0) {
+            offset = offset - scController.offset;
+          }
+          scController.animateTo(
+              -offset, duration: Duration(milliseconds: 10), curve: Curves.linear);
+        }
+
+      }
+    });
+    _preKeyboardShow = isKeyboardShow;
+  }
+}
