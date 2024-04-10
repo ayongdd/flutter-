@@ -282,3 +282,8 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 ####    behavior: HitTestBehavior.opaque,GestureDetector将独占手势事件，并阻止它们传递给子小部件。
 
 
+### flutter_scrollview_observer 滚动观察
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/cc79c067-0d97-43d8-b234-fd60c4b18c4e)
+#### 应用场景 1.获取最顶部的子部件信息（可以获取当前的第一个子部件和所有正在显示的子部件信息）  2.视频列表自动播放（当子部件进入列表中间区域时，自动播放视频） 3.模块定位（当滚动到一些特定模块时，顶部的 TabBar 的指示器切换到对应模块 tab）
+
+ 
