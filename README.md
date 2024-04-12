@@ -289,3 +289,5 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
  ### scroll_to_index 点击tabbar 滚动到指定的定位位置
 
  ### map转 list .toList()
+
+ ### getx 状态UI界面获取不到状态改变 可以用 change(null,status: RxStatus.success());
