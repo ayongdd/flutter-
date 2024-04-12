@@ -287,3 +287,5 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### 应用场景 1.获取最顶部的子部件信息（可以获取当前的第一个子部件和所有正在显示的子部件信息）  2.视频列表自动播放（当子部件进入列表中间区域时，自动播放视频） 3.模块定位（当滚动到一些特定模块时，顶部的 TabBar 的指示器切换到对应模块 tab）
 
  ### scroll_to_index 点击tabbar 滚动到指定的定位位置
+
+ ### map转 list .toList()
