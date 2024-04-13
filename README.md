@@ -291,3 +291,5 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
  ### map转 list .toList()
 
  ### getx UI界面获取不到状态改变 可以用 change(null,status: RxStatus.success())  需要加  extends GetxController with StateMixin 混淆;
+
+ ### common_utils Dart常用工具类库。包含日期，正则，倒计时，时间轴等工具类
