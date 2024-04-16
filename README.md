@@ -295,10 +295,4 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
  ### common_utils Dart常用工具类库。包含日期，正则，倒计时，时间轴等工具类
 
  ### 读取本地图片 indrIcon = await loadImageFromAssets("assets/${curLanguage()}/home/checked2@2x.png");
- //读取 assets 中的图片
-  Future<ui.Image> loadImageFromAssets(String path) async {
-    ByteData data = await rootBundle.load(path);
-    Uint8List bytes =
-    data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
-    return decodeImageFromList(bytes);
-  }
+![image](https://github.com/ayongdd/flutter-/assets/84298308/ac5085e4-7c49-4e82-88d6-2a369157596e)
