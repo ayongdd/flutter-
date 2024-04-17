@@ -299,4 +299,9 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
  ### 读取本地图片  
  #### late ui.Image indrIcon;
  #### indrIcon = await loadImageFromAssets("assets/${curLanguage()}/home/checked2@2x.png");
-![image](https://github.com/ayongdd/flutter-/assets/84298308/ac5085e4-7c49-4e82-88d6-2a369157596e)
+ #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/ac5085e4-7c49-4e82-88d6-2a369157596e)
+
+### 获取box 相对于offset(0,0)的偏移量 
+####   final GlobalKey _widgetKey = GlobalKey();
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/de7054ed-da50-4585-b6b6-e4fdf08c1650)
+#### ![Uploading image.png…]()
