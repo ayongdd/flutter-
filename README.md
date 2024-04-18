@@ -310,4 +310,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/022cdae7-5982-43b4-b655-215e3e759315)
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/8ee2a66e-c17f-4036-97f1-6474b4d9e014)
 
+### resizeToAvoidBottomInset 是一个布尔值属性，用于控制页面是否自动调整大小以避免底部插入（例如键盘）
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/0b309839-e2f0-4d65-a8e7-8bfe3e74a284)
+
 
