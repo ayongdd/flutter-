@@ -306,3 +306,8 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/de7054ed-da50-4585-b6b6-e4fdf08c1650)
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/f31b04e7-26a8-46db-a754-4f5726ceb48f)
 
+### 运行web端指令  --web-renderer=html --web-port=8686 --web-hostname=192.168.4.35
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/022cdae7-5982-43b4-b655-215e3e759315)
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/8ee2a66e-c17f-4036-97f1-6474b4d9e014)
+
+
