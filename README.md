@@ -318,3 +318,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/6bddbb28-6a8c-4d96-9bae-c51c7a6f49f5)
 
 ### 将数据复制到剪贴板Clipboard.setData(ClipboardData(text: str));
+
+
+### 自定义组件 Container
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/4cbb89a6-c093-4933-a75b-f85276e614cd)
