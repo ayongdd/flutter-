@@ -1,4 +1,4 @@
-# Flutter笔记
+![image](https://github.com/ayongdd/flutter-/assets/84298308/a05e104e-fcb5-4764-8985-59a7dc36a5d7)# Flutter笔记
 
 ## 如何在Column中嵌入横着滚动的ListView      https://www.bilibili.com/video/BV1PT41177rs/?spm_id_from=autoNext&vd_source=61596f2e8aeaf8e4e3087056bd6404c4
 
@@ -322,3 +322,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 
 ### 自定义组件 Container
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/4cbb89a6-c093-4933-a75b-f85276e614cd)
+
+### 加载base64图片
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/9aa02e14-c4b6-4ca9-8585-712ed79885db)
+
