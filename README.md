@@ -329,3 +329,9 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 ### flutter实现 宽度自适应内容 用row包一下
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/d8df349b-cae1-45f1-946b-f804960c4b0a)
 
+### existsSync 方法是同步的，它会立即返回一个布尔值来指示文件或目录是否存在。如果文件或目录存在，则返回 true；否则返回 false。
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/80a60b10-306f-4923-a0e8-00788edec168)
+
+### Future.value 用于创建一个已经完成（resolved）的 Future 对象，并将其设置为指定的值。 类似 js Promise
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/39b78e49-a32f-4143-aec6-f1a483af723b)
+
