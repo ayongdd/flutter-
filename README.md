@@ -335,3 +335,9 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 ### Future.value 用于创建一个已经完成（resolved）的 Future 对象，并将其设置为指定的值。 类似 js Promise
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/39b78e49-a32f-4143-aec6-f1a483af723b)
 
+### 节流/防抖
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/15d49fe8-0b9e-4e2a-93e2-65940c5bf567)
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/b622b503-adb4-4758-80a3-676fe1335d19)
+
+
+
