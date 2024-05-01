@@ -340,4 +340,6 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/b622b503-adb4-4758-80a3-676fe1335d19)
 
 
+### extended_text_field  官方输入框的扩展组件，支持图片，@某人，自定义文字背景。也支持自定义菜单和选择器。
+
 
