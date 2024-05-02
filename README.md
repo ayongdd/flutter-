@@ -342,4 +342,5 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 
 ### extended_text_field  官方输入框的扩展组件，支持图片，@某人，自定义文字背景。也支持自定义菜单和选择器。
 
-
+### Slidable 是一个 Flutter 小部件，用于创建可滑动操作的列表项或卡片
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/f2ccc635-50b1-4c13-9569-1949faae4fb5)
