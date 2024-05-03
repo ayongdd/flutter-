@@ -346,3 +346,4 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/f2ccc635-50b1-4c13-9569-1949faae4fb5)
 
 ### FittedBox 适配 使组件不会超出父组件的宽高
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/e2da2eba-b17f-4edd-8723-b726098ab121)
