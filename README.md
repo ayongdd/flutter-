@@ -1,4 +1,4 @@
-![image](https://github.com/ayongdd/flutter-/assets/84298308/cc09a98d-755b-4292-ade0-dd8b5dc24e39)![image](https://github.com/ayongdd/flutter-/assets/84298308/a05e104e-fcb5-4764-8985-59a7dc36a5d7)# Flutter笔记
+![image](https://github.com/ayongdd/flutter-/assets/84298308/238aaf96-1a99-442d-a581-ad7f4121c370)![image](https://github.com/ayongdd/flutter-/assets/84298308/cc09a98d-755b-4292-ade0-dd8b5dc24e39)![image](https://github.com/ayongdd/flutter-/assets/84298308/a05e104e-fcb5-4764-8985-59a7dc36a5d7)# Flutter笔记
 
 ## 如何在Column中嵌入横着滚动的ListView      https://www.bilibili.com/video/BV1PT41177rs/?spm_id_from=autoNext&vd_source=61596f2e8aeaf8e4e3087056bd6404c4
 
@@ -347,3 +347,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 
 ### FittedBox 适配 使组件不会超出父组件的宽高
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/e2da2eba-b17f-4edd-8723-b726098ab121)
+
+### PageStorage 滚动位置恢复
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/5b84fa3c-0e19-4ca5-901f-e6e5bb634163)
+
