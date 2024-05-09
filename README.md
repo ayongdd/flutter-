@@ -351,3 +351,5 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 ### PageStorage 滚动位置恢复
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/5b84fa3c-0e19-4ca5-901f-e6e5bb634163)
 
+### 获取父元素的宽度
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/882634c8-f6b4-43b5-9904-8907b3705e27)
