@@ -353,3 +353,5 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 
 ### 获取父元素的宽度
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/882634c8-f6b4-43b5-9904-8907b3705e27)
+
+### 打包web flutter build web --web-renderer html --release
