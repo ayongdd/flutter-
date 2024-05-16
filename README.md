@@ -355,3 +355,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/882634c8-f6b4-43b5-9904-8907b3705e27)
 
 ### 打包web flutter build web --web-renderer html --release
+ 
+### WidgetsBindingObserver 用于监听Flutter应用程序生命周期和系统事件的变化
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/1695dba1-332b-4003-ba22-55547815cc02)
+
