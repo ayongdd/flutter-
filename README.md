@@ -359,4 +359,5 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 ### WidgetsBindingObserver 用于监听Flutter应用程序生命周期和系统事件的变化
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/1695dba1-332b-4003-ba22-55547815cc02)
 
-### OverlayEntry  是Flutter中的一个类，它允许您在应用程序的Overlay中插入自定义的视图或小部件
+### OverlayEntry  是Flutter中的一个类，它允许您在应用程序的Overlay中插入自定义的视图或小部件(可以做弹窗)
+#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/09f93088-0a8a-4d03-9947-ed25bff04f43)
