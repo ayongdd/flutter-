@@ -403,7 +403,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
   }
 }
 ```
-### web端保存二维码到手机
+### web端保存二维码到手机 (universal_html)
 ```  void saveQRCode(String code) async {
     if (PlatformUtils().isWeb) {
       // 生成二维码图片数据
