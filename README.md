@@ -363,7 +363,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/87345cb8-aa5c-4a95-a08d-d00cb568f511)
 
 ### 保存二维码到手机 （image_gallery_saver ）
-#### void saveImgDataToPhone(String url) async {
+``` void saveImgDataToPhone(String url) async {
   if (PlatformUtils().isMobile) {
     if (PlatformUtils().isIOS) {
       await Permission.photos.request();
@@ -401,4 +401,4 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
   } else {
     JWToastUtil.showToastCenter(result["errorMessage"].toString());
   }
-}
+}```
