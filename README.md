@@ -401,4 +401,34 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
   } else {
     JWToastUtil.showToastCenter(result["errorMessage"].toString());
   }
-}```
+}
+```
+### web端保存二维码到手机
+```  void saveQRCode(String code) async {
+    if (PlatformUtils().isWeb) {
+      // 生成二维码图片数据
+      final qrImageData = await QrPainter(
+        data: code,
+        version: QrVersions.auto,
+        gapless: false,
+        color:Colors.black,
+        eyeStyle:const QrEyeStyle(color: Colors.white),
+        dataModuleStyle: const QrDataModuleStyle(color: Colors.white),
+
+      ).toImageData(200);
+
+      // 将二维码图片数据转为 Blob 对象
+      final blob = html.Blob([qrImageData], 'image/png');
+
+      // 创建一个隐藏的链接元素
+      final downloadLink = html.AnchorElement(
+          href: html.Url.createObjectUrlFromBlob(blob));
+      downloadLink.download = 'qrcode.png'; // 设置下载的文件名
+
+      // 模拟用户点击链接
+      downloadLink.click();
+    } else {
+      saveImgDataToPhone(code);
+    }
+  }
+```
