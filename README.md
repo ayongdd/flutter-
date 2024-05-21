@@ -362,5 +362,43 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 ### OverlayEntry  是Flutter中的一个类，它允许您在应用程序的Overlay中插入自定义的视图或小部件(可以做弹窗)
 #### ![image](https://github.com/ayongdd/flutter-/assets/84298308/87345cb8-aa5c-4a95-a08d-d00cb568f511)
 
-### 请求手机权限 （image_gallery_saver ）
-#### ![image](https://github.com/ayongdd/flutter-/assets/84298308/bb933b41-6b7d-4f51-8113-95b56e722889)
+### 保存二维码到手机 （image_gallery_saver ）
+#### void saveImgDataToPhone(String url) async {
+  if (PlatformUtils().isMobile) {
+    if (PlatformUtils().isIOS) {
+      await Permission.photos.request();
+      // await Permission.photosAddOnly.request();
+      print("iOS 请求权限");
+      if (!(await Permission.photos.request().isGranted || await Permission.photos.request().isLimited)) {
+        print("iOS 请求权限被拒绝");
+        JWToastUtil.showSuccessToast("请设置相册权限");
+        return;
+      }
+    }
+  } else if (PlatformUtils().isAndroid) {
+    await Permission.storage.request();
+    if (!await Permission.storage.request().isGranted) {
+      JWToastUtil.showSuccessToast("请设置存储权限");
+      return;
+    }
+  }
+  final data = await QrPainter(
+    data: url,
+    version: QrVersions.auto,
+    gapless: false,
+    eyeStyle:PlatformUtils().isIOS ? QrEyeStyle(color: Colors.black) : QrEyeStyle(color: Colors.white),
+    dataModuleStyle:PlatformUtils().isIOS ? QrDataModuleStyle(color: Colors.black) : QrDataModuleStyle(color: Colors.white),
+  ).toImageData(200);
+  final buffer = data?.buffer;
+
+  final result = await ImageGallerySaver.saveImage(
+      buffer!.asUint8List(data?.offsetInBytes ?? 0,data?.lengthInBytes ?? 0),
+      quality: 60,
+      name: url);
+  print(result);
+  if (result["isSuccess"].toString() == "true") {
+    JWToastUtil.showToastCenter("保存成功");
+  } else {
+    JWToastUtil.showToastCenter(result["errorMessage"].toString());
+  }
+}
