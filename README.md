@@ -435,3 +435,7 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 
 ### Getx obx和GetBuilder 区别
 #### ![image](https://github.com/user-attachments/assets/b050a12b-23ec-4b8a-9bbe-accd0f46402f)
+
+### Getx 监听数据变化
+#### ![image](https://github.com/user-attachments/assets/d829c0f4-8eeb-41ca-a7d7-15d5c19fc294)
+
