@@ -439,3 +439,6 @@ class WBKeyBoardObsercer extends WidgetsBindingObserver {
 ### Getx 监听数据变化
 #### ![image](https://github.com/user-attachments/assets/d829c0f4-8eeb-41ca-a7d7-15d5c19fc294)
 
+### 监听生命实时更新值
+#### ![image](https://github.com/user-attachments/assets/97152b50-5ed8-4079-93c1-d86fb0df5e16)
+
